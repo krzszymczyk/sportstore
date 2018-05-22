@@ -8,4 +8,3 @@ C:\Folder osobisty\sportstore\SportStore\SportStore\obj\Debug\netcoreapp2.0\Spor
 C:\Folder osobisty\sportstore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.AssemblyInfo.cs
 C:\Folder osobisty\sportstore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.dll
 C:\Folder osobisty\sportstore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.pdb
-C:\Folder osobisty\sportstore\SportStore\SportStore\obj\Debug\netcoreapp2.0\SportStore.csprojResolveAssemblyReference.cache
